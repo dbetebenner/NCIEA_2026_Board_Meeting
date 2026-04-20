@@ -4,8 +4,6 @@
 
 **Damian W. Betebenner** (National Center for the Improvement of Educational Assessment)
 
-**Henry I. Braun** (Lynch School of Education, Boston College)
-
 Presented at the NCIEA Board Meeting, April 2026, Boston, MA.
 
 ## View the Presentation
