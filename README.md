@@ -1,5 +1,7 @@
 # Longitudinal Inference Without Longitudinal Data
 
+Part of Damian Betebenner's talks: <https://dbetebenner.github.io/talks/>
+
 ### A Copula Based Framework for Modeling Dependence and Growth in Educational Assessment
 
 **Damian W. Betebenner** (National Center for the Improvement of Educational Assessment)
@@ -13,10 +15,18 @@ The slides are hosted via GitHub Pages at:
 
 ## Repository Contents
 
+Rendered from the Betebenner_Braun Paper_1 project.
+
     docs/
       index.html   # Self-contained reveal.js presentation (rendered via Quarto)
+      assets/
+        In_Order_We_Trust.pdf   # Linked PDF
+      docs/assets/
+        In_Order_We_Trust.pdf   # Copy at the URL the slide QR encodes (see below)
 
 The HTML file embeds all assets (figures, fonts, CSS, JavaScript) so no additional files are required to view the presentation.
+
+The QR code on the slides encodes `.../NCIEA_2026_Board_Meeting/docs/assets/In_Order_We_Trust.pdf`. GitHub Pages serves `docs/` as the site root, so that URL needs the copy at `docs/docs/assets/`. Keep both copies: the deck has already been presented and the printed QR cannot change.
 
 ## About the Presentation
 
